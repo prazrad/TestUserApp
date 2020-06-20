@@ -26,4 +26,5 @@ npm start
 The application is now up running in the 3000 port.
 
 #1 - Mysql dumps (.sql files) are available under **raw/mysql** directory.
+
 #2 - Postman files are attached to **raw/postman** directory in the repo.
