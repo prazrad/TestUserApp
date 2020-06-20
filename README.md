@@ -23,3 +23,5 @@ Run the node application using :
 ```
 npm start
 ```
+The application is now up running in the 3000 port.
+Postman files are attached to postman directory in the repo.
