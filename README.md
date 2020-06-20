@@ -10,7 +10,11 @@ The following are the list of REST API Endpoints
 |  3.  |  Get user details  |  GET    | /users/:user_name  |
 ------------------------------------------------------------
 
-## Import .SQL file to MYSQL
+## MySQL Configuration
+
+Update your mysql connection parameters under **config/mysqlDB.js**
+
+## Import .SQL file to MySQL
 
 Mysql dumps (.sql files) are available under **raw/mysql** directory.
 
