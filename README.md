@@ -12,7 +12,7 @@ The following are the list of REST API Endpoints
 
 ## Installation
 
-Install the required packages using :
+Clone the repo and under the repository install the required packages using :
 ```
 npm install
 ```
@@ -24,4 +24,6 @@ Run the node application using :
 npm start
 ```
 The application is now up running in the 3000 port.
-Postman files are attached to postman directory in the repo.
+
+#1 - Mysql dumps (.sql files) are available under **raw/mysql** directory.
+#2 - Postman files are attached to **raw/postman** directory in the repo.
